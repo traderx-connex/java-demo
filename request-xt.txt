@@ -1,4 +1,4 @@
-origion===validate-algorithms=HmacSHA256&validate-appkey=a8487f72-de99-4242-9c13-1a885c61c1b0&validate-recvwindow=6000&validate-timestamp=1666951913345#POST#/v4/order#{"symbol":"XT_USDT","side":"BUY","bizType":"SPOT","quantity":2,"price":3,"type":"LIMIT","timeInForce":"GTC"}
+origion===validate-algorithms=HmacSHA256&validate-appkey=a8487f72-de99-4242-9c13-1a885c61c1b0&validate-recvwindow=6000&validate-timestamp=1666951913345#POST#/v4/order#{"symbol":"BTC_USDT","side":"BUY","bizType":"SPOT","quantity":2,"price":3,"type":"LIMIT","timeInForce":"GTC"}
 request====POST Request Url: https://sapi.cne.kg/v4/order
 Request Headers: 
     validate-timestamp: 1666951913345
@@ -13,7 +13,7 @@ Request Headers:
     Content-Length: 108
     Content-Type: application/json
 Request Body: 
-    {"symbol":"XT_USDT","side":"BUY","bizType":"SPOT","quantity":2,"price":3,"type":"LIMIT","timeInForce":"GTC"}
+    {"symbol":"BTC_USDT","side":"BUY","bizType":"SPOT","quantity":2,"price":3,"type":"LIMIT","timeInForce":"GTC"}
 	
 	
 	

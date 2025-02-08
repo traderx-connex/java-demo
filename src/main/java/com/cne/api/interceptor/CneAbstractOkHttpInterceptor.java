@@ -19,8 +19,8 @@ import java.util.stream.Collectors;
  * @create 2023/9/21 10:43
  */
 public abstract class CneAbstractOkHttpInterceptor implements Interceptor {
-    protected static final String appKey = "4d8d49e5-c817-4fbd-acfe-806368e6e83b";
-    protected static final String secretKey = "020e211137506d83aace07702cad15c3e20cd873";
+    protected static final String appKey = "xxxx";
+    protected static final String secretKey = "xxxx";
 
 
     protected static final String encry = "HmacSHA256";

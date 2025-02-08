@@ -50,7 +50,7 @@ public class RyzenUserWebSocketTest {
 
     @Test
     public void subscribeAll(){
-        String listenKey="EB346241DFFEA0D7634EEE01520B25291702365643909";
+        String listenKey="xxxx";
         List<String> params = new ArrayList<>();
         params.add("kline@btc_usdt,1m");
 
